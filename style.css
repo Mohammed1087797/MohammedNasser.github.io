@@ -1,0 +1,25 @@
+body{background-color: antiquewhite;}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+body {
+    padding: 50px;
+    font: 16px / 1.5 Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3f3f3f;
+    font-weight: 300;
+}
+header {
+    width:270px;
+    float:left;
+    position:fixed;
+  }
+  section {
+    width:1500px;
+    float:right;
+    padding-bottom:50px;
+  }
